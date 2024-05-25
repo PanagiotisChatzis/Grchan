@@ -33,3 +33,21 @@ https://rumble.com/live-hls-dvr/4ntqhu/playlist.m3u8?
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="ACTION 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",ACTION 24 HD
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1,Link 1
+https://hlemolis.ganonita.xyz/channels/ch1/index.m3u8
+#EXTINF:-1,Link 2
+https://hlemolis.ganonita.xyz/channels/ch2/index.m3u8
+#EXTINF:-1,Link 3
+https://hlemolis.ganonita.xyz/channels/ch3/index.m3u8
+#EXTINF:-1,Link 4
+https://hlemolis.ganonita.xyz/channels/ch4/index.m3u8
+#EXTINF:-1,Link 5
+https://hlemolis.ganonita.xyz/channels/ch5/index.m3u8
+#EXTINF:-1,Link 6
+https://hlemolis.ganonita.xyz/channels/ch6/index.m3u8
+#EXTINF:-1,Link 7
+https://hlemolis.ganonita.xyz/channels/ch7/index.m3u8
+#EXTINF:-1,Link 8
+https://hlemolis.ganonita.xyz/channels/ch8/index.m3u8
+#EXTINF:-1,Ant1 f1+
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1_9.m3u8
