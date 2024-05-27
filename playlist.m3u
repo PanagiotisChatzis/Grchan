@@ -51,3 +51,11 @@ https://hlemolis.ganonita.xyz/channels/ch7/index.m3u8
 https://hlemolis.ganonita.xyz/channels/ch8/index.m3u8
 #EXTINF:-1,Ant1 f1+
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1_9.m3u8
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1,Manchester United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1,Eurosport 1
+https://p5.stirilepe.net/eurosportsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Eurosport 2
+https://p5.stirilepe.net/eurosport2sd/tracks-v1a1/mono.m3u8
