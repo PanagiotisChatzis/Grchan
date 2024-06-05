@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 group-title="GreekTv" tvg-name="ERT1 HD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert1-logo-800x300-f.png?m=resize&w=240&h=136",ERT1 HD
 https://ertflix.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-video=2000000.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="ERT2 HD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert2-logo-800x300-f.png?m=resize&w=240&h=136",ERT2 HD
@@ -22,14 +22,16 @@ https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/an
 #EXTINF:-1 group-title="GreekTv" tvg-name="ALPHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="STAR HD" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png",STAR HD 
-https://livestar.siliconweb.com/media/star1/star1.m3u8
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="SKAI HD" tvg-logo="https://seeklogo.com/images/S/skai-tv-logo-4385056EC5-seeklogo.com.png",SKAI HD 
 https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="OPEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN TV HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="GreekTv" tvg-name="OPEN Beyond" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN BEYOND
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/ncfmbsfx/720/chunklist.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="ART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Artyou12_copy2.png",ART HD
 https://rumble.com/live-hls-dvr/4tttbt/playlist.m3u8?
 #EXTINF:-1 group-title="GreekTv" tvg-name="MAK TV HD" tvg-logo="https://maktv.gr/assets/maktv_logo_pink_720.png?qc-size=720,240",MAK TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="ACTION 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",ACTION 24 HD
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="GreekTv" tvg-name="ONE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",ONE CHANNEL
+https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
