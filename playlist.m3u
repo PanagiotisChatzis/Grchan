@@ -5,15 +5,15 @@ https://ertflix.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-vid
 https://ertflix.s.llnwi.net/ertlive/ert2/default/ERT2-audio_104621_und=104400-video=2000000.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="ERT3 HD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert3-logo-800x300-f.png?m=resize&w=240&h=136",ERT3 HD
 https://ertflix.s.llnwi.net/ertlive/ert3/default/index.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ERT NEWS" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-news-logo-800x300.png?m=resize&w=240&h=136",ERT NEWS
+#EXTINF:-1 group-title="GreekTv" tvg-name="ERTNEWS" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-news-logo-800x300.png?m=resize&w=240&h=136",ERT NEWS
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=2000000.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ERT WORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertworld-logo-800x300-f.png?m=resize&w=240&h=136",ERT WORLD 
+#EXTINF:-1 group-title="GreekTv" tvg-name="ERTWORLD" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertworld-logo-800x300-f.png?m=resize&w=240&h=136",ERT WORLD 
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ERT SPORTS" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports1-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS  
+#EXTINF:-1 group-title="GreekTv" tvg-name="ERTSPORTS" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports1-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS  
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/ERTSports1-audio_104621_und=104400-video=2000000.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ERT SPORTS 2" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports2-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS 2
+#EXTINF:-1 group-title="GreekTv" tvg-name="ERTSPORTS2" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports2-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS 2
 https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ERT SPORTS 3" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports3-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS 3
+#EXTINF:-1 group-title="GreekTv" tvg-name="ERTSPORTS3" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertsports3-logo-800x300.png?m=resize&w=240&h=136",ERT SPORTS 3
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/45/Mega-logo.svg/1280px-Mega-logo.svg.png",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -25,13 +25,11 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="SKAI HD" tvg-logo="https://seeklogo.com/images/S/skai-tv-logo-4385056EC5-seeklogo.com.png",SKAI HD 
 https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="OPEN Beyond" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN BEYOND
+#EXTINF:-1 group-title="GreekTv" tvg-name="OPEN" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN BEYOND
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/ncfmbsfx/720/chunklist.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ART HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Artyou12_copy2.png",ART HD
-https://rumble.com/live-hls-dvr/4tttbt/playlist.m3u8?
-#EXTINF:-1 group-title="GreekTv" tvg-name="MAK TV HD" tvg-logo="https://maktv.gr/assets/maktv_logo_pink_720.png?qc-size=720,240",MAK TV HD
+#EXTINF:-1 group-title="GreekTv" tvg-name="MTV" tvg-logo="https://maktv.gr/assets/maktv_logo_pink_720.png?qc-size=720,240",MAK TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ACTION 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",ACTION 24 HD
+#EXTINF:-1 group-title="GreekTv" tvg-name="ACTION24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",ACTION 24 HD
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 group-title="GreekTv" tvg-name="ONE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",ONE CHANNEL
+#EXTINF:-1 group-title="GreekTv" tvg-name="ONETV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
